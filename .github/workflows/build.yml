@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - build/minimal-shell-preview
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
