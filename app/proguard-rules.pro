@@ -1,0 +1,1 @@
+-keep class com.twossh.minimalshell.NotificationCaptureService { *; }
